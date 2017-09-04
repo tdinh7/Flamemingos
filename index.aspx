@@ -12,6 +12,8 @@
             Flamingos Rock! Yeah!
         </div>
 
+        <div>Word Jumble Project</div>
+
         <br />
         <div>
             <asp:Button ID="btnHello" runat="server" Text="Why did Adele cross the road?" OnClick="btnHello_Click" />
