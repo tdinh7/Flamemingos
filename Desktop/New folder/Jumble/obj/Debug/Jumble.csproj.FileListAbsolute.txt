@@ -1,0 +1,161 @@
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\ApplicationInsights.config
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\roslyn\csc.exe
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\roslyn\System.Collections.Immutable.dll
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\roslyn\vbc.exe
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\roslyn\VBCSCompiler.exe
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\roslyn\VBCSCompiler.exe.config
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\Jumble.dll.config
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\Jumble.dll
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\Jumble.pdb
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\Antlr3.Runtime.dll
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\Microsoft.AI.Web.dll
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\Microsoft.AI.WindowsServer.dll
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\Microsoft.ApplicationInsights.dll
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\Microsoft.Web.Infrastructure.dll
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\Newtonsoft.Json.dll
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\System.Web.Helpers.dll
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\System.Web.Mvc.dll
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\System.Web.Optimization.dll
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\System.Web.Razor.dll
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\System.Web.WebPages.Deployment.dll
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\System.Web.WebPages.dll
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\System.Web.WebPages.Razor.dll
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\WebGrease.dll
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\Microsoft.AI.Web.xml
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\Microsoft.AI.WindowsServer.xml
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\Microsoft.ApplicationInsights.xml
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\System.Web.Helpers.xml
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\System.Web.Mvc.xml
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\System.Web.Optimization.xml
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\System.Web.Razor.xml
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\System.Web.WebPages.xml
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\System.Web.WebPages.Deployment.xml
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\System.Web.WebPages.Razor.xml
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\Antlr3.Runtime.pdb
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\bin\Newtonsoft.Json.xml
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\obj\Debug\Jumble.dll
+c:\users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\obj\Debug\Jumble.pdb
+C:\Users\slama\documents\visual studio 2015\Projects\Jumble\Jumble\obj\Debug\Jumble.csprojResolveAssemblyReference.cache
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\ApplicationInsights.config
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\roslyn\csc.exe
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\roslyn\vbc.exe
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\Jumble.dll.config
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\Jumble.dll
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\Jumble.pdb
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\Antlr3.Runtime.dll
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\Microsoft.AI.Web.dll
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\Newtonsoft.Json.dll
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\System.Web.Helpers.dll
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\System.Web.Mvc.dll
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\System.Web.Optimization.dll
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\System.Web.Razor.dll
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\System.Web.WebPages.dll
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\WebGrease.dll
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\Microsoft.AI.Web.xml
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\System.Web.Helpers.xml
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\System.Web.Mvc.xml
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\System.Web.Optimization.xml
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\System.Web.Razor.xml
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\System.Web.WebPages.xml
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\Antlr3.Runtime.pdb
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\bin\Newtonsoft.Json.xml
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\obj\Debug\Jumble.csproj.CoreCompileInputs.cache
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\obj\Debug\Jumble.dll
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\obj\Debug\Jumble.pdb
+C:\Users\Pourush\Downloads\Jumble\Jumble\Jumble\obj\Debug\Jumble.csprojResolveAssemblyReference.cache
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\ApplicationInsights.config
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\roslyn\csc.exe
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\roslyn\vbc.exe
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\roslyn\VBCSCompiler.exe
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\Jumble.dll.config
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\Jumble.dll
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\Jumble.pdb
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\Antlr3.Runtime.dll
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\Microsoft.AI.Web.dll
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\Microsoft.ApplicationInsights.dll
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\Newtonsoft.Json.dll
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\System.Web.Helpers.dll
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\System.Web.Mvc.dll
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\System.Web.Optimization.dll
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\System.Web.Razor.dll
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\System.Web.WebPages.dll
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\System.Web.WebPages.Razor.dll
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\WebGrease.dll
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\Microsoft.AI.Web.xml
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\Microsoft.ApplicationInsights.xml
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\System.Web.Helpers.xml
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\System.Web.Mvc.xml
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\System.Web.Optimization.xml
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\System.Web.Razor.xml
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\System.Web.WebPages.xml
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\System.Web.WebPages.Razor.xml
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\Antlr3.Runtime.pdb
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\bin\Newtonsoft.Json.xml
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\obj\Debug\Jumble.csprojResolveAssemblyReference.cache
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\obj\Debug\Jumble.csproj.CoreCompileInputs.cache
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\obj\Debug\Jumble.dll
+C:\Users\tuf77728\Downloads\Jumble\Jumble\Jumble\Jumble\obj\Debug\Jumble.pdb

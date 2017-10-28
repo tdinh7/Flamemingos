@@ -1,0 +1,119 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="well">
+    <h1>Welcome to Word Jumble!</h1>
+    <p>
+        Ready to Play?
+    </p>
+    <button class="btn btn-primary" id="btnStartAndEnd">Start Game</button>
+</div>
+
+<div class="row" id="gameDiv">
+    <div class="col-md-7">
+        <table class="table table-bordered">
+            <thead>
+                <tr class="success">
+                    <th id="tdRiddle" colspan="5">
+                       
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td id="tdJumbleWord1"></td>
+                    <td width="20px;">    
+                        <span class="shuffleClass glyphicon glyphicon-random" aria-hidden="true"></span>
+                    </td>
+                    <td>
+                        <input class="clsAnswer" type="text" id="txtFirstWord"/>
+                    </td>
+                    <td width="20px;">
+                        <span id="spnFirstWord" class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+                    </td>
+                    <td class="clsHint" id="tdHint1">
+                    </td>
+                </tr>
+                <tr>
+                    <td id="tdJumbleWord2"></td>
+                    <td width="20px;">
+                        <span class="shuffleClass glyphicon glyphicon-random" aria-hidden="true"></span>
+                    </td>
+                    <td>
+                        <input class="clsAnswer" type="text" id="txtSecondWord"/>
+                    </td>
+                    <td width="20px;">
+                        <span id="spnSecondWord" class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+                    </td>
+                    <td class="clsHint" id="tdHint2">
+
+                    </td>
+                </tr>
+                <tr>
+                    <td id="tdJumbleWord3"></td>
+                    <td width="20px;">
+                        <span class="shuffleClass glyphicon glyphicon-random" aria-hidden="true"></span>
+                    </td>
+                    <td>
+                        <input class="clsAnswer" type="text" id="txtThirdWord" />
+                    </td>
+                    <td width="20px;">
+                        <span id="spnThirdWord" class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+                    </td>
+                    <td class="clsHint" id="tdHint3"></td>
+                </tr>
+                <tr>
+                    <td id="tdJumbleWord4"></td>
+                    <td width="20px;">
+                        <span class="shuffleClass glyphicon glyphicon-random" aria-hidden="true"></span>
+                    </td>
+                    <td>
+                        <input class="clsAnswer" type="text" id="txtFourthWord" />
+                    </td>
+                    <td width="20px;">
+                        <span id="spnFourthWord" class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+                    </td>
+                    <td class="clsHint" id="tdHint4"></td>
+                </tr>
+                <tr class="success">
+                    <td>
+                        Your Final Answer : 
+                    </td>
+                    <td width="20px;">
+                        
+                    </td>
+                    <td>
+                        <input id="txtFinalAnswer" type="text"/>
+                    </td>
+                    <td colspan="2">
+                        <button id="btnCheck" class="btn btn-info">Check Answer</button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+     <div class="col-md-3">
+         <table class="table table-bordered">
+             <tbody>
+                 <tr>
+                     <td>Total Questions</td>
+                     <td>Total Correct Answers</td>
+                     <td>Total Time Taken</td>
+                     <td>Grade</td>
+                 </tr>
+                 <tr>
+                     <td id="tdTotalQuestions"></td>
+                     <td id="tdTotalCorrectAnswers"></td>
+                     <td id="totalTimeTaken"></td>
+                     <td><h2 id="grade"></h2></td>
+                 </tr>
+             </tbody>
+         </table>
+     </div>
+    <div class="col-md-2">
+        <h1 id="counter" style="display:none"></h1>
+    </div>
+</div>
+<script src="~/Scripts/Home/index.js"></script>
